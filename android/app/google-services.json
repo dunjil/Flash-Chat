@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447027663471",
+    "firebase_url": "https://flash-chat-42edd.firebaseio.com",
+    "project_id": "flash-chat-42edd",
+    "storage_bucket": "flash-chat-42edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447027663471:android:851576fa99ab4196",
+        "android_client_info": {
+          "package_name": "com.labondo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447027663471-4u1592dcqa7rb8ifv2anr0tjbse5u0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtSD00oUB4uXrgcBG4raXP9SkcGhs29U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447027663471-4u1592dcqa7rb8ifv2anr0tjbse5u0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
