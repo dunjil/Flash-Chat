@@ -1,6 +1,5 @@
 # flash_chat
-
-A new Flutter application.
+A simple flutter chat application- Sign in and sign-up features, with single chat and some animation
 
 ## Getting Started
 
